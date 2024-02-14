@@ -54,9 +54,14 @@
 
 ![Снимок97](https://github.com/Makarov-Denis/12_06-Replic-and-scaling_1/assets/148921246/43265249-eea6-4460-b04c-ed7abe7cfac9)
 
-Создал на мастере базу my_base_test.
+Была создана на мастере база my_base_test.
 
 ![image](https://github.com/Makarov-Denis/12_06-Replic-and-scaling_1/assets/148921246/b73ef5fe-4eb0-4ae5-b441-4398f3fd971a)
+
+slave прочитал данные из файла mysql-bin.000007 и воспроизвёл изменение у себя.
+
+![Снимок99](https://github.com/Makarov-Denis/12_06-Replic-and-scaling_1/assets/148921246/6d86a249-722d-48e2-bf57-8b7c4b5dbbd4)
+
 
 ---
 
