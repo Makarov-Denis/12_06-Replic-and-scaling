@@ -52,7 +52,11 @@
 
 Запустил сервер слэйва, указал настройки для подключения с мастеру. Результат работы без ошибок представлен на скриншоте ниже:
 
+![Снимок97](https://github.com/Makarov-Denis/12_06-Replic-and-scaling_1/assets/148921246/43265249-eea6-4460-b04c-ed7abe7cfac9)
 
+Создал на мастере базу my_base_test.
+
+![image](https://github.com/Makarov-Denis/12_06-Replic-and-scaling_1/assets/148921246/b73ef5fe-4eb0-4ae5-b441-4398f3fd971a)
 
 ---
 
